@@ -69,6 +69,7 @@
   "devDependencies": {
     "bats": "git+https://github.com/sstephenson/bats.git#master",
     "chai": "^3.5.0",
+    "command-line-test": "^1.0.10",
     "eslint": "^4.15.0",
     "eslint-config-google": "^0.9.1",
     "gitbook-cli": "^2.3.0",
